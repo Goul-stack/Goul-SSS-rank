@@ -1,0 +1,29 @@
+@media(max-width: 575px){
+	.menu{
+		position: inherit;
+	}
+	.menu a{
+		width: 100%;
+		padding: 20px 0px;
+	}
+	.header{
+		margin-top: 0px;
+		padding: 100px 0px;
+		min-height: 300px;
+	}
+	.about img{
+		float: none;
+		width: 90%;
+		margin: 10px 5%;
+	}
+	.member{
+		min-width: 80%;
+	}
+	.tarif{
+		min-width: 80%;
+	}
+	#contact input{
+		margin: 5px 0px;
+		padding: 12px 8px;
+	}
+}
